@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:60,TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8
+#EXTINF:60,TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8
+#EXTINF:57,Three
+https://i.mjh.nz/nz/tv.11.m3u8
+#EXTINF:57,Bravo
+https://i.mjh.nz/nz/tv.12.m3u8
+#EXTINF:60,DUKE
+https://i.mjh.nz/nz/tv.55.m3u8
+#EXTINF:57,eden
+https://i.mjh.nz/nz/tv.73.m3u8
+#EXTINF:60,PRIME
+https://i.mjh.nz/nz/tv.28.m3u8
+#EXTINF:57,RUSH
+https://i.mjh.nz/nz/tv.72.m3u8
